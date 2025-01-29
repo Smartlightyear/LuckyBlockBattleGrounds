@@ -1,4 +1,4 @@
-local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/shlexware/Orion/main/source')))()
+local OrionLib = loadstring(game:HttpGet(('https://raw.githubusercontent.com/Smartlightyear/GoogleUI/refs/heads/main/Orion.Lua')))()
 local Window = OrionLib:MakeWindow({Name = "Lucky Blocks Battlegrounds", HidePremium = false, SaveConfig = true, ConfigFolder = "OrionTest"})
 
 -- Anti-AFK
